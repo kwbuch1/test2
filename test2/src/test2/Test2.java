@@ -9,4 +9,7 @@ public class Test2 {
         str2="";
     }
 
-}
+    public Test2(int value2){
+        this.value2 = value2;
+    }
+
